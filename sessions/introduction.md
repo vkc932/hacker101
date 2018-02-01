@@ -19,7 +19,6 @@ Video
 -----
 
 <div class="container">
-	<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/zPYfT9azdK8?rel=0&autoplay=0&origin={{ site.url }}" frameborder="0"></iframe>
 	
-[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://youtu.be/vt5fpE0bzSY)
+[![Watch the video]()](https://www.youtube-nocookie.com/embed/zPYfT9azdK8?rel=0&autoplay=0&origin={{ site.url }})
 </div>
