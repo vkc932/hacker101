@@ -19,6 +19,6 @@ Video
 -----
 
 <div class="container">
-	
-[![Watch the video]()](https://www.youtube-nocookie.com/embed/zPYfT9azdK8?rel=0&autoplay=0
+[![Alt text for your video](https://img.youtube.com/vi/zPYfT9azdK8/0.jpg)](https://www.youtube.com/watch?v=zPYfT9azdK8)	
+
 </div>
