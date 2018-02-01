@@ -20,5 +20,5 @@ Video
 
 <div class="container">
 	
-[![Watch the video]()](https://www.youtube-nocookie.com/embed/zPYfT9azdK8?rel=0&autoplay=0&origin={{ site.url }})
+[![Watch the video]()](https://www.youtube-nocookie.com/embed/zPYfT9azdK8?rel=0&autoplay=0
 </div>
